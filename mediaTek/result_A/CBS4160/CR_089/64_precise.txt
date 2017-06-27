@@ -1,0 +1,16 @@
+----------------------------------------------
+ parameter
+----------------------------------------------
+SNR      : 6.4
+maxIter  : 50
+codeword : 100
+subword  : 10
+codeRate : 089
+H size   : 1536*7680
+
+
+
+
+CRCBLER for snr 6.4 = 21/1820
+secondError = 1801
+lastError = 1818

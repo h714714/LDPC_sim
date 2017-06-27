@@ -1,0 +1,15 @@
+———————————————————————
+ parameter
+----------------------------------------------
+SNR      : 4.6
+maxIter  : 50
+codeword : 100
+subword  : 10
+codeRate : 075
+H size   : 512*1536
+
+
+
+
+21, 708, 691
+preciseBLER for snr 4.6 = 0.0285919

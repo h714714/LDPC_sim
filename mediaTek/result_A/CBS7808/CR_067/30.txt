@@ -1,0 +1,14 @@
+5———————————————————————
+ parameter
+----------------------------------------------
+SNR      : 3
+maxIter  : 50
+codeword : 100
+subword  : 10
+codeRate : 067
+H size   : 5120*13312
+
+
+
+
+CRCBLER for snr 3 = 20/18850
